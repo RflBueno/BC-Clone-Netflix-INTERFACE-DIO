@@ -1,6 +1,6 @@
 # Netflix Clone feito para um dos desafios da Digital Innovation One
 
-Criado buscando utilizzar sempre as boas práticas de html e css.
+Criado buscando utilizar sempre as boas práticas de html e css.
 
 HTML Bootcamp - Digital Innovation One (https://www.dio.me/)
 
